@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshot 1
-![Screenshot1](https://res.cloudinary.com/dxrbrkfvv/image/upload/v1598551949/github/redux-thunk_ddle7d.png)
 
+![image](https://user-images.githubusercontent.com/73483327/111279754-4db78f80-863b-11eb-8546-ba89ccceceb4.png)
 ## Available Scripts
 
 In the project directory, you can run:
